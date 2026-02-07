@@ -3,7 +3,7 @@
 This repository contains JavaScript exercises organized by chapters. Each chapter includes HTML and JavaScript files for practice and learning.
 
 ## Structure
-- **Chapter 1-5**: Each folder contains an `index.html` and a `java.js` file (case may vary) with exercises and solutions.
+- **Chapter 1-8**: Each folder contains an `index.html` and a `java.js` file (case may vary) with exercises and solutions.
 
 ## How to Use
 1. Open the desired chapter folder.
