@@ -13,6 +13,3 @@ This repository contains JavaScript exercises organized by chapters. Each chapte
 ## Repository
 [GitHub Link](https://github.com/HAMZAIqbalSharref/JAVA-SCRIPT-EXCERSICE)
 
----
-
-Feel free to fork, clone, and contribute!
